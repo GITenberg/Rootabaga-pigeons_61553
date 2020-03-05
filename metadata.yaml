@@ -1,5 +1,5 @@
 _repo: Rootabaga-pigeons_61553
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Petersham, Miska
@@ -20,6 +20,9 @@ contributor:
     gutenberg_agent_id: '31375'
     url: http://www.gutenberg.org/2009/agents/31375
     wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+covers:
+- cover_type: archival
+  image_path: 61553-h/images/cover.jpg
 creator:
   author:
     agent_name: Sandburg, Carl
@@ -29,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32447
     wikipedia: http://en.wikipedia.org/wiki/Carl_Sandburg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61553#Rootabaga-pigeons
 gutenberg_issued: '2020-03-03'
 gutenberg_type: Text
 identifiers:
