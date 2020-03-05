@@ -1,0 +1,43 @@
+_repo: Rootabaga-pigeons_61553
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Petersham, Miska
+    aliases:
+    - Petrezselyem, Mihaly
+    - Petrezselyem, Mihály
+    birthdate: 1888
+    deathdate: 1960
+    gutenberg_agent_id: '31374'
+    url: http://www.gutenberg.org/2009/agents/31374
+    wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+  - agent_name: Petersham, Maud
+    aliases:
+    - Petersham, Maud Fuller
+    - Fuller, Maud
+    birthdate: 1890
+    deathdate: 1971
+    gutenberg_agent_id: '31375'
+    url: http://www.gutenberg.org/2009/agents/31375
+    wikipedia: http://en.wikipedia.org/wiki/Maud_and_Miska_Petersham
+creator:
+  author:
+    agent_name: Sandburg, Carl
+    birthdate: 1878
+    deathdate: 1967
+    gutenberg_agent_id: '32447'
+    url: http://www.gutenberg.org/2009/agents/32447
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Sandburg
+description: ''
+gutenberg_issued: '2020-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61553'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Rootabaga pigeons
+url: http://www.gutenberg.org/ebooks/61553
